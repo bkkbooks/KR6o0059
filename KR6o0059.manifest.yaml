@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6o0059/v1
+canonical_location: https://kanripo.org/bkk/KR6o0059/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 因緣心釋論開決記
+  identifiers:
+    alt_id:
+    - T85n2816
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2816.xml
+    old_id: T85n2816
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0059_000.yaml, hash: 'sha256:5c586cf2d4901c94a27b93d5bb9b4ac312093fc7bb3f932e69cf92cf15d5f143'}
+  - {seq: 1, filename: KR6o0059_001.yaml, hash: 'sha256:ce468e7150d3f006eecdeacc4a5e5064275db84869318a073fbba5469818e550'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0059_001.markers.yaml, hash: 'sha256:8f5d707bc78ba03b0de47dce1869fea4c749a4ff78350f7d326a5de8c3f5d77b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0059_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6733
+  label: 因緣心釋論開決記一卷
+  type: juan
+  level: 1
+hash: sha256:bc4e4e52d0d18fdfdd16876f63299574b995870fb3383ec9fa1d1e117b48cf65
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0059/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因緣心釋論開決記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2816.xml
+    old_id: T85n2816
+hash: sha256:5c586cf2d4901c94a27b93d5bb9b4ac312093fc7bb3f932e69cf92cf15d5f143
