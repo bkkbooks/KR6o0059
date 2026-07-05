@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0059_000.yaml, hash: 'sha256:5c586cf2d4901c94a27b93d5bb9b4ac312093fc7bb3f932e69cf92cf15d5f143'}
-  - {seq: 1, filename: KR6o0059_001.yaml, hash: 'sha256:ce468e7150d3f006eecdeacc4a5e5064275db84869318a073fbba5469818e550'}
+  - {seq: 1, filename: KR6o0059_001.yaml, hash: 'sha256:721ec8084cf8eac1ad5b5fb77fdbbba1b1947b5217c5fe4d873d42e8de1e233a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0059_001.markers.yaml, hash: 'sha256:8f5d707bc78ba03b0de47dce1869fea4c749a4ff78350f7d326a5de8c3f5d77b'}
+  - {seq: 0, role: markers, filename: assets/KR6o0059_000.markers.yaml, hash: 'sha256:a7b0ec37ece604d1a53c8dccb6681d87a42d8e9ee84c3291f5ce080b25189513'}
+  - {seq: 1, role: markers, filename: assets/KR6o0059_001.markers.yaml, hash: 'sha256:5167dfeb5d30af86b3ea295d8aca98f0b8e966245943f7e826ff28545c771fa5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 因緣心釋論開決記一卷
   type: juan
   level: 1
-hash: sha256:bc4e4e52d0d18fdfdd16876f63299574b995870fb3383ec9fa1d1e117b48cf65
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6efb042abbe30b78fcc994b091dfeb18602027151876a7c590e3b55a29ea81d3
